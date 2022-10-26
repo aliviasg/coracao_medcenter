@@ -35,9 +35,17 @@ body {
 
 .menu li a {
     text-decoration: none;
-    color: red;
     font-size: 20px;
+}
 
+#inactive a {
+    color: red;
+}
+
+#active a {
+    background-color: rgba(255, 0, 0, 0.63);
+    color: white;
+    padding: 10px;
 }
 
 .menu a:hover {

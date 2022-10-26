@@ -82,7 +82,7 @@ body {
 
 footer {
     background-color: lightgray;
-    min-height: 150px;
+    height: 100px;
     color: darkred;
     padding: 30px;
     font-size: 17px;

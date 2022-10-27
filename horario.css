@@ -79,7 +79,7 @@ body {
 #banner{
     display: flex;
     justify-content: center;
-    background-image: url('../coracao_medcenter/images/redstethoscope.jpg');
+    background-image: url('./images/redstethoscope.jpg');
     background-position: center;
     background-size: cover;
     height: 400px;

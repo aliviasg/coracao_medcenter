@@ -77,7 +77,7 @@ body {
 #banner{
     display: flex;
     justify-content: center;
-    background-image: url('../coracao_medcenter/images/header1.jpg');
+    background-image: url('./images/header1.jpg');
     background-position: center;
     background-size: cover;
     height: 400px;

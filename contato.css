@@ -79,7 +79,7 @@ body {
 #banner{
     display: flex;
     justify-content: center;
-    background-image: url('./images/armscrossed.jpg');
+    background-image:url('./images/telephone.jpg');
     background-position: center;
     background-size: cover;
     height: 400px;
@@ -89,6 +89,36 @@ body {
     background-color: white;
     min-height: 300px;
     padding: 20px;
+}
+
+.content-icons img {
+    height: 23px;
+    margin-left: 10px;
+}
+
+form {
+    width: 362px;
+}
+
+form input {
+    border-radius: 5px;
+    height: 25px;
+	border: 1px solid;
+    width: 350px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgba(211, 211, 211, 0.521);
+}
+
+.botoes {
+    display: flex;
+	justify-content:space-evenly;
+}
+
+form .botoes input {
+    width: 80px;
+    cursor: pointer;
 }
 
 footer {
